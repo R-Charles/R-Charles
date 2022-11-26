@@ -16,9 +16,9 @@
   </head>
   <body>
     <div class="container">
-    - 🔭 I’m currently working on a note card study app
-    - 🌱 I’m currently learning MERN
-    - 👯 I’m looking to collaborate on games ESP educational ones
+    - 🔭 I’m currently working on the Current Buzz app
+    - 🌱 I’m currently learning C Programming
+    - 👯 I’m looking to collaborate on games ESP edtech
     - 🤔 I’m looking for help with algorithms
     - 💬 Ask me about html
     - 📫 How to reach me: https://www.linkedin.com/in/raphchar/
@@ -34,9 +34,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a note card study app
-- 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on games ESP educational onws
+- 🔭 I’m currently working on the Current Buzz app
+- 🌱 I’m currently learning C Programming
+- 👯 I’m looking to collaborate on games ESP edtech
 - 🤔 I’m looking for help with algorithms
 - 💬 Ask me about html
 - 📫 How to reach me: https://www.linkedin.com/in/raphchar/
